@@ -2,7 +2,7 @@
   "name": "node-rsa",
   "version": "1.0.6",
   "description": "Node.js RSA library",
-  "main": "src/NodeRSA.js",
+  "main": "src/NodeRSA_bundle.js",
   "scripts": {
     "test": "grunt test"
   },
